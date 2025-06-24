@@ -6,8 +6,13 @@ This project analyzes the relationship between market sentiment (Fear/Greed) and
 To identify patterns in trading behavior, PnL, and leverage across different market sentiment conditions — and deliver insights for smarter trading strategies.
 
 ## 📂 Datasets Used
-- 📉 Trader Execution Data from Hyperliquid (account-level)
-- 🧭 Bitcoin Fear & Greed Index (daily sentiment classification)
+The datasets used in this project are too large to be uploaded to GitHub. You can download them manually from the links below and place them in the same directory as the notebook:
+
+🧾 Historical Trader Data (Hyperliquid):
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+📉 Bitcoin Fear & Greed Index:
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
 ## 🧪 Analysis Workflow
 1. Clean and parse timestamp data
