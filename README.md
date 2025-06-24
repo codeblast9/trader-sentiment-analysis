@@ -14,6 +14,9 @@ https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=shari
 📉 Bitcoin Fear & Greed Index:
 https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
+Once downloaded, make sure the file names match those referenced in the Jupyter notebook.
+
+
 ## 🧪 Analysis Workflow
 1. Clean and parse timestamp data
 2. Extract and standardize date columns
